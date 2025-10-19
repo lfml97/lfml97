@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz Lima</h1>
-<h3 align="center">Master's student in mathematics, with a degree in statistics and an interest in data science.</h3>
+<h3 align="center">Master's in mathematics, with a degree in statistics and an interest in data science.</h3>
 
 
 
